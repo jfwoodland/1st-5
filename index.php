@@ -5,7 +5,7 @@
 
 
         <meta name="description" content="Secure user login">
-        <title>PMDaQ Secure user login</title>
+        <title>1st-5 Secure user login</title>
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
 
@@ -14,7 +14,7 @@
         <link href="css/bootstrap-responsive.css" rel="stylesheet">
 
         <!--Custom Styles-->
-        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style2.css" rel="stylesheet">
 
         <!--Icon home Screen Touch -->
         <link rel="apple-touch-icon-precomposed" href="icon.png">
@@ -29,7 +29,7 @@
 
         <div class="container-fluid" id="mainwrapper">
             <div class="container-fluid" id="content">
-                <h1>PMDaQ secure login</h1>
+                <h1>1st-5.com secure login</h1>
                 
                   <p>Login Form</p>
 
@@ -62,7 +62,7 @@
                             <?php if(isset($_GET['error'])) {?>
                               <div class="alert alert-error fade in error">
                             <button type="button" class="close" data-dismiss="alert">x</button>
-                            <strong>Ups! That wasn't correct...</strong>
+                            <strong>Login Incorrect</strong>
                             </div>
                           <?php }?>   
                     </div>

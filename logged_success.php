@@ -21,7 +21,7 @@ if(login_check($mysqli) == true) { ?>
         <link href="css/bootstrap-responsive.css" rel="stylesheet">
 
         <!--Custom Styles-->
-        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style2.css" rel="stylesheet">
 
         <!--Icon home Screen Touch -->
         <link rel="apple-touch-icon-precomposed" href="icon.png">
