@@ -4,7 +4,8 @@
 }
 /*FORMATING LAYOUT*/
 body {
-  background-image: url(../img/shattered.png);
+  background-image: url(../images/fulls/04.jpg);
+  background-size: cover;
   background-attachment: fixed;
   text-shadow: 1px 1px 1px #fff;
 }
